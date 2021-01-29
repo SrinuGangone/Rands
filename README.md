@@ -4,18 +4,12 @@
 
 <h1>Ecommerce</h1>
 
-<?php
-require "config/constants.php";
-session_start();
-if(isset($_SESSION["uid"])){
-	header("location:profile.php");
-}
-?>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Khan Store</title>
+		<title>Rands Store</title>
 		<link rel="stylesheet" href="css/bootstrap.min.css"/>
 		<script src="js/jquery2.js"></script>
 		<script src="js/bootstrap.min.js"></script>
