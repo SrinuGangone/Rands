@@ -1,1 +1,3 @@
 # Rands
+
+<h1>WELCOME TO THE WEBSITE</h1>
