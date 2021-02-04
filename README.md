@@ -5,7 +5,7 @@
 <h1>Ecommerce</h1>
 
 
-<!DOCTYPE html>
+
 <html>
 	
 	<head>
