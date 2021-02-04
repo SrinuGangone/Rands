@@ -7,6 +7,7 @@
 
 <!DOCTYPE html>
 <html>
+	
 	<head>
 		<meta charset="UTF-8">
 		<title>Rands Store</title>
@@ -16,6 +17,17 @@
 		<script src="main.js"></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<style></style>
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-187899283-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-187899283-2');
+</script>
+
 	</head>
 <body>
 <div class="wait overlay">
